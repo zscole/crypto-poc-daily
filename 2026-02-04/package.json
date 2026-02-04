@@ -1,0 +1,17 @@
+{
+  "name": "ibc-message-auth-poc",
+  "version": "1.0.0",
+  "description": "POC demonstrating IBC message authentication vulnerability (Saga exploit)",
+  "main": "test_scenario.js",
+  "scripts": {
+    "test": "node test_scenario.js",
+    "compile": "npx hardhat compile"
+  },
+  "dependencies": {
+    "ethers": "^6.11.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
