@@ -1,0 +1,13 @@
+{
+  "name": "eip-7862-delayed-state-root",
+  "version": "1.0.0",
+  "description": "EIP-7862 Delayed State Root POC",
+  "scripts": {
+    "simulate": "npx ts-node simulator.ts",
+    "test": "forge test -vvv"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
