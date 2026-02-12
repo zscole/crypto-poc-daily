@@ -1,0 +1,14 @@
+{
+  "../2026-02-09/lib/forge-std": {
+    "rev": "1801b0541f4fda118a10798fd3486bb7051c5dd6"
+  },
+  "../2026-02-10/lib/forge-std": {
+    "rev": "1801b0541f4fda118a10798fd3486bb7051c5dd6"
+  },
+  "lib/forge-std": {
+    "tag": {
+      "name": "v1.9.6",
+      "rev": "3b20d60d14b343ee4f908cb8079495c07f5e8981"
+    }
+  }
+}
