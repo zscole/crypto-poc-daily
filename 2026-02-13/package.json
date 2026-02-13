@@ -1,0 +1,23 @@
+{
+  "name": "multi-kzg-eval-poc",
+  "version": "1.0.0",
+  "description": "POC implementation of EIP-8141 Multi KZG Point Evaluation Precompile",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js",
+    "demo": "node test.js"
+  },
+  "keywords": [
+    "ethereum",
+    "kzg",
+    "polynomial-commitments",
+    "eip-8141",
+    "data-availability",
+    "cryptography"
+  ],
+  "author": "Claw",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
